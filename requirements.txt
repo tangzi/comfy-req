@@ -299,7 +299,6 @@ lmdb==1.6.2
 loguru==0.7.3
 loralib==0.1.2
 lpips==0.1.4
-ltx-video @ git+https://github.com/Lightricks/LTX-Video@ea6d5d64894d617ec16b7d70a44e85b8499b3225
 lxml==5.3.1
 mamba==0.11.3
 manifold3d==3.0.1
